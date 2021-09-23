@@ -11,7 +11,7 @@ void draw(){
   textSize(10);
   text("Cappersborgvej 17",150,150);
   text("1700 Cappersborg",150,165);
-  text("tlf. 31 12 73 62",157,180);
+  text("tlf. 99 99 99 99",157,180);
   text("www.capperssupermarkede.dk",125,195);
   
   //Overskrifter//
