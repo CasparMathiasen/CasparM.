@@ -7,12 +7,12 @@ noLoop();
 void draw(){
   fill(0,0,0);
   textSize(20);
-  text("Cappers Supermarkede",100,100);
+  text(" Aabenraa Supermarkede",100,100);
   textSize(10);
-  text("Cappersborgvej 17",150,150);
-  text("1700 Cappersborg",150,165);
+  text("stegholt",150,150);
+  text("6200 Aabenraa",150,165);
   text("tlf. 99 99 99 99",157,180);
-  text("www.capperssupermarkede.dk",125,195);
+  text("www.Aabenraasupermarkede",125,195);
   
   //Overskrifter//
   text("Vare",20,210);
