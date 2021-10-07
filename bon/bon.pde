@@ -1,3 +1,5 @@
+//1..2..3..4..how many niggers are in your store?
+//25
 void setup(){
   background(255,255,255);
   size(400,600);
