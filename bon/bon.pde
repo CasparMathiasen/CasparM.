@@ -9,8 +9,8 @@ void draw(){
   textSize(20);
   text(" Aabenraa Supermarkede",100,100);
   textSize(10);
-  text("stegholt",150,150);
-  text("6200 Aabenraa",150,165);
+  text("Stegholt",165,150);
+  text("6200 Aabenraa",160,165);
   text("tlf. 99 99 99 99",157,180);
   text("www.Aabenraasupermarkede",125,195);
   
