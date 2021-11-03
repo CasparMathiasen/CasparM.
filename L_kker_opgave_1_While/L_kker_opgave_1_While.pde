@@ -1,4 +1,4 @@
-//Opgave 1//
+ ;//Opgave 1//
 //While//
 String s="Hej med dig!";
 boolean found=false;
