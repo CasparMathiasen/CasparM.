@@ -9,6 +9,7 @@
 int[] kolonne = new int [3];
 
 void setup(){
+  size(1000,500);
   kolonne = FindTreTal();
   printArray(kolonne);
   println();
@@ -43,4 +44,10 @@ int[] sorter(int[] tal) {
     }
   }
   return tal;
+ 
   }
+  
+   
+   
+  
+  
