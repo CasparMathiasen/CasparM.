@@ -15,7 +15,7 @@ void setup() {
 
   // ****Lav en lykke som kan gentages 9 gange. Her starter din løkke
 
-  for (int i =0; i < bingoPlade.length; i++) {
+  for (int i =0; i < bingoPlade.length; i++) { //<>//
     // start med at finde tre tal
     kolonne = findTreTal(i);
     while (findEns(kolonne)) {
@@ -37,9 +37,8 @@ void setup() {
    while(findEns(nuller)){
      nuller = findFireTal();
      nuller = sorter(nuller);
-   } 
+     
   }
-
 
   // her printer jeg bingopladen til consol
   for (int i=0; i<bingoPlade.length; i++) {
@@ -47,7 +46,7 @@ void setup() {
     printArray(bingoPlade[i]);
   }
   println();
-
+}
 }
 void draw() {
   background(225, 225, 225);
